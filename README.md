@@ -1,2 +1,4 @@
 # proj1
-to display hello world msg
+to dilay hello world msg
+package main
+import
